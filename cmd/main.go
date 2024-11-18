@@ -127,9 +127,9 @@ func (m model) View() string {
 			// Add colon separator
 			for i := 0; i < 5; i++ {
 				if i == 1 || i == 3 {
-					display[i] += " █ "
+					display[i] += "█ "
 				} else {
-					display[i] += "   "
+					display[i] += "  "
 				}
 			}
 			continue
