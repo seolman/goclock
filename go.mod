@@ -1,4 +1,4 @@
-module github.com/tjfehdgns1/goglock
+module github.com/tjfehdgns1/goclock
 
 go 1.23.3
 
