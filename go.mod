@@ -1,4 +1,4 @@
-module github.com/tjfehdgns1/goclock
+module github.com/seolman/goclock
 
 go 1.23.3
 
